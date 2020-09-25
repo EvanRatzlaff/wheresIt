@@ -1,0 +1,1 @@
+validates :sku_id, presence: true
